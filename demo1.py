@@ -21,7 +21,7 @@ while(True):
         if count < 3 :
             print('You didn\'t give any input. ')
             count += 1
-        else:
-            print('You didn\'t enter anything many times. ')
+        elif count== 2:
+            print('This is a last chance to enter input. ')
             break
         
