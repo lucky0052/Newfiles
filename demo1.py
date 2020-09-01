@@ -22,6 +22,7 @@ while(True):
             print('You didn\'t give any input. ')
             count += 1
         elif count== 2:
+            print('This is Git conflict.')
             print('This is a last chance to enter input. ')
             break
         
