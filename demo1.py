@@ -24,5 +24,7 @@ while(True):
         elif count== 2:
             print('This is Git conflict.')
             print('This is a last chance to enter input. ')
+            print('This is another part of the program.')
             break
+
         
