@@ -27,3 +27,11 @@ while(True):
             print('This is to check the modification by diff. ')
             break
         
+def fun():
+    try:
+        if i == 0:
+            pass
+    except ZeroDivisionError as E:
+                print(E)
+            
+            
