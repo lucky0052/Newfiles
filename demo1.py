@@ -22,9 +22,8 @@ while(True):
             print('You didn\'t give any input. ')
             count += 1
         elif count== 2:
-            print('This is Git conflict.')
+            print('I hope this will work definitely Wow. ')
             print('This is a last chance to enter input. ')
-            print('This is another part of the program.')
+            print('This is to check the modification by diff. ')
             break
-
         
