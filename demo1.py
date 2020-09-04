@@ -27,11 +27,13 @@ while(True):
             print('This is to check the modification by diff. ')
             break
         
-def fun():
+def fun(i):
     try:
         if i == 0:
             pass
     except ZeroDivisionError as E:
                 print(E)
             
+            # This is due to add some messages in commit. 
             
+             
