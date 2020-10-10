@@ -34,6 +34,8 @@ def fun(i):
     except ZeroDivisionError as E:
                 print(E)
             
+print('Fetching the changes ')
+            
             # This is due to add some messages in commit. 
             
              
